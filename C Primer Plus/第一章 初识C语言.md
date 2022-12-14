@@ -10,7 +10,7 @@
 
 ## 1.2 选择C语言的理由
 
- ![image-20221214193849662](/Users/he/Library/CloudStorage/OneDrive-个人/note/Reading_Notes/C Primer Plus/第一章 初始C语言.assets/image-20221214193849662.png)
+ ![image-20221214193849662](/Users/he/Library/CloudStorage/OneDrive-个人/note/Reading_Notes/C Primer Plus/第一章 初识C语言.assets/image-20221214193849662.png)
 
 
 
@@ -42,7 +42,7 @@
 
 ## 1.3 C语言的应用范围
 
- ![image-20221214195135505](/Users/he/Library/CloudStorage/OneDrive-个人/note/Reading_Notes/C Primer Plus/第一章 初始C语言.assets/image-20221214195135505.png)
+ ![image-20221214195135505](/Users/he/Library/CloudStorage/OneDrive-个人/note/Reading_Notes/C Primer Plus/第一章 初识C语言.assets/image-20221214195135505.png)
 
 
 
