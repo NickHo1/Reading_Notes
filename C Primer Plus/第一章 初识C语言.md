@@ -10,7 +10,7 @@
 
 ## 1.2 选择C语言的理由
 
- ![image-20221214193849662](/Users/he/Library/CloudStorage/OneDrive-个人/note/Reading_Notes/C Primer Plus/第一章 初识C语言.assets/image-20221214193849662.png)
+  ![image-20221214205200553](./第一章 初识C语言.assets/image-20221214205200553.png)
 
 
 
@@ -42,7 +42,7 @@
 
 ## 1.3 C语言的应用范围
 
- ![image-20221214195135505](/Users/he/Library/CloudStorage/OneDrive-个人/note/Reading_Notes/C Primer Plus/第一章 初识C语言.assets/image-20221214195135505.png)
+  ![image-20221214205218429](./第一章 初识C语言.assets/image-20221214205218429.png)
 
 
 
@@ -84,7 +84,7 @@
 
 ## 1.7 使用C语言的7个步骤
 
- ![image-20221214201226364](/Users/he/Library/CloudStorage/OneDrive-个人/note/Reading_Notes/C Primer Plus/第一章 初识C语言.assets/image-20221214201226364.png)
+  ![image-20221214205240495](./第一章 初识C语言.assets/image-20221214205240495.png)
 
 
 
@@ -160,7 +160,7 @@ int main(void) {
 
 ​	链接器的作用是，把编写的目标代码、系统的标准启动代码和库代码这3部分合并成一个文件，即可执行文件。对于库代码，链接器只会把程序中要用到的库函数代码提取出来
 
- ![image-20221214203034535](/Users/he/Library/CloudStorage/OneDrive-个人/note/Reading_Notes/C Primer Plus/第一章 初识C语言.assets/image-20221214203034535.png)
+  ![image-20221214205305108](./第一章 初识C语言.assets/image-20221214205305108.png)
 
 ​	目标文件和可执行文件都由机器语言指令组成的。然而，目标文件中只包含编译器为你编写的代码翻译的机器语言代码，可执行文件中还包含你编写的程序中使用的库函数和启动代码的机器代码
 
