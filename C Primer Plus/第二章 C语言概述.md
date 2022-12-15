@@ -401,7 +401,10 @@ Nick Ho
 Nick
 Ho
 Nick Ho
+Nick Ho
 ```
+
+
 
 在这个代码中，我们首先调用了一次 `printf()` 函数，将名和姓打印在一行。然后，我们再次调用了两次 `printf()` 函数，分别打印出名和姓。最后，我们再次调用了两次 `printf()` 函数，将名和姓打印在一行。
 
@@ -632,6 +635,28 @@ one
 two
 three
 done!
+```
+
+```c
+#include <stdio.h>
+
+void two(void) {
+    printf("two\n");
+}
+
+void one_three(void) {
+    printf("one\n");
+    two();
+    printf("three\n");
+}
+
+int main(void) {
+    printf("starting now:\n");
+    one_three();
+    printf("done!\n");
+
+    return 0;
+}
 ```
 
 在这个程序中，我们定义了两个函数：`two()` 和 `one_three()`。`two()` 函数只打印 "two" 这个单词，而 `one_three()` 函数打印 "one" 和 "three"，并调用 `two()` 函数来打印 "two"。
